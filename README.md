@@ -1,4 +1,4 @@
-#🎓 Jose Danrick Desiderio
+# 🎓 Jose Danrick Desiderio
 <hr>
 
 **`(Software Developer, Full Stack Developer)`**
