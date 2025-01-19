@@ -1,10 +1,10 @@
-# 🎓 Jose Danrick Desiderio
+## 🎓 Jose Danrick Desiderio
 <hr>
 
 **`(Software Developer, Full Stack Developer)`**
 I am a fourth-year IT student specializing in Automation at University of Santo Tomas, interested in coding and creating robust applications
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
