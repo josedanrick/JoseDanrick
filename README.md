@@ -1,6 +1,7 @@
 **🎓 Jose Danrick Desiderio**
 <hr>
-**`[Software Developer, Full Stack Developer]`**
+**`aka Painapple (Developer/Digital Artist)`**
+**`(Software Developer, Full Stack Developer)`**
 I am a fourth-year IT student specializing in Automation at University of Santo Tomas, interested in coding and creating robust applications
 
 # 💻 Tech Stack:
