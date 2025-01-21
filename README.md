@@ -4,7 +4,19 @@
 
 I am a fourth-year IT student at University of Santo Tomas, passionate about learning different tech stack like languages, frameworks, databases, libraries and etc in order to build robust applications. I am also interested in the realms of data science and machine learning since nowadays, our world is quite leaning towards that. 
 
+#### Currently Doing:
+- 🤖 Studying Web Applications with Java Spring 
+- 💻 Studying Relational Database with PostgreSQL
+- 💻 Studying more about APIs and queries with GraphQL
+  
+#### Applications Lined Up:
+- School Management System for Woodfield Academy of Bataan [family business]
+- Ecommerce Website for Marilag Chocolate [family business]
+  
 #### 🌐 Connect with me:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### 💻 Tech Stack:
 Languages:
