@@ -13,12 +13,10 @@ I am a fourth-year IT student at the University of Santo Tomas, passionate about
 - School Management System for Woodfield Academy of Bataan [family business]
 - Ecommerce Website for Marilag Chocolate [family business]
   
-#### 🌐 Connect with me:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+#### Social Medias:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-danrick-desiderio/)
 
-#### 💻 Tech Stack:
+#### Current Tech Stack:
 Languages:
 <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
