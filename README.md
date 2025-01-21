@@ -2,7 +2,7 @@
 
 **`(Software Developer, Full Stack Developer)`**
 
-I am a fourth-year IT student at University of Santo Tomas, passionate about learning different tech stack like languages, frameworks, databases, libraries and etc in order to build robust applications. I am also interested in the realms of data science and machine learning since nowadays, our world is quite leaning towards that. 
+I am a fourth-year IT student at the University of Santo Tomas, passionate about learning different tech stacks, like languages, frameworks, databases, libraries, etc., in order to build robust applications. I am also interested in the fields of data science and machine learning since our world is leaning more towards that direction. 
 
 #### Currently Doing:
 - 🤖 Studying Web Applications with Java Spring 
