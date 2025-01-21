@@ -39,7 +39,11 @@ I am a fourth-year IT student at the University of Santo Tomas, passionate about
 #### Libraries:
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23ED8B00?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 
 #### Developer Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
@@ -47,7 +51,11 @@ I am a fourth-year IT student at the University of Santo Tomas, passionate about
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00878F.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/raspberry_pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/vs_code-%233776AB.svg?style=for-the-badge&logo=vscode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/intellij-5E0D73.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-FFCD00.svg?style=for-the-badge&logo=pycharm)
+![Android Studio](https://img.shields.io/badge/android_studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 
 
