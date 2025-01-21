@@ -1,7 +1,7 @@
 ## 🎓 Jose Danrick Desiderio
 
 **`(Software Developer, Full Stack Developer)`** <br>
-I am a fourth-year IT student specializing in Automation at University of Santo Tomas, interested in coding and creating robust applications
+I am a fourth-year IT student at University of Santo Tomas, passionate about learning different tech stack like languages, frameworks, databases, libraries and etc in order to build robust applications. I am also interested in the realms of data science and machine learning since nowadays, our world is quite leaning towards that. 
 
 #### 🌐 Connect with me:
 
