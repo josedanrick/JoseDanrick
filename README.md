@@ -22,10 +22,12 @@ I am a fourth-year IT student at the University of Santo Tomas, passionate about
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### Databases:
 ![MongoDB](https://img.shields.io/badge/mongodb-%47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MYSQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 #### Frameworks:
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -42,6 +44,10 @@ I am a fourth-year IT student at the University of Santo Tomas, passionate about
 #### Developer Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-00878F.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/raspberry_pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 
