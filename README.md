@@ -15,7 +15,7 @@ I am a fourth-year IT student at the University of Santo Tomas, passionate about
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josedanrick/)
 
 #### Languages:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=whit) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -27,7 +27,7 @@ I am a fourth-year IT student at the University of Santo Tomas, passionate about
 #### Databases:
 ![MongoDB](https://img.shields.io/badge/mongodb-%47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MYSQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase)
 
 #### Frameworks:
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
