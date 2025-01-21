@@ -11,8 +11,8 @@ I am a fourth-year IT student at the University of Santo Tomas, passionate about
 
 #### Social Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/josedanrick)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0866FF.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-danrick-desiderio/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josedanrick/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0866FF.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-danrick-desiderio/)
 
 #### Languages:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=whit) 
